@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Darvin.G",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Sakshika Sree",
+      "rollnumber": "101",
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "name": "Sritheran",
+      "rollnumber": "102",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "BalaMurugan",
+      "rollnumber": "103",
+      "gender": "male"
+    },
+    {
+      "name": "Muneeshwaran",
+      "gender": "male",
+      "id": 5
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Darvin.G",
+      "roll": "Assistant Professor"
+    },
+    {
+      "name": "ThangaKasi Rajan",
+      "roll": "Professor",
+      "id": 2
+    },
+    {
+      "name": "Manimaran",
+      "roll": "Professor",
+      "id": 3
+    },
+    {
+      "name": "Asha",
+      "roll": "Assistant Professor",
+      "id": 4
+    },
+    {
+      "name": "Selva Kumar",
+      "roll": "Professor",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Gandhimathi",
+      "roll": "Professor"
+    }
+  ]
+}
