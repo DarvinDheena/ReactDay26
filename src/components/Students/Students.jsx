@@ -20,6 +20,7 @@ function Students({students}) {
 
   return (
     <div>
+      <h2>Students List</h2>
         <form>
           <label> 
             <input 

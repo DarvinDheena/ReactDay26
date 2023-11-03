@@ -24,6 +24,7 @@ const filteredTeachers = filterTeachers(teachers,teachersShow);
   
   return (
     <div>
+        <h2>Teachers List</h2>
         <form>
           <label>
             <input 
